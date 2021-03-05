@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(75, 74, 74);
+  color: antiquewhite;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: rgb(83, 81, 81);
+  border-radius: 0.3rem;
+}
+
+.form {
+  color: rgb(177, 168, 168);
+}
+.form-control {
+  background-color: rgb(177, 168, 168);
+}

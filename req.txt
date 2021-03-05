@@ -1,0 +1,15 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+autopep8 @ file:///tmp/build/80754af9/autopep8_1613246362269/work
+certifi==2020.12.5
+Django @ file:///tmp/build/80754af9/django_1606860386887/work
+django-ckeditor==6.0.0
+django-editorjs==0.2.1
+django-froala-editor==3.2.2
+django-js-asset==1.2.2
+django-quill-editor==0.1.21
+django-tinymce==3.2.0
+psycopg2 @ file:///opt/concourse/worker/volumes/live/ba6afed2-743d-4eab-7fd9-80d08764582a/volume/psycopg2_1608147600870/work
+pycodestyle @ file:///home/ktietz/src/ci_mi/pycodestyle_1612807597675/work
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
